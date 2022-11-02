@@ -1,0 +1,25 @@
+{
+  "name": "solutionjs",
+  "version": "0.0.1",
+  "description": "solucion del ejercicio de proyect euler - 02",
+  "main": "fibo.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest test/fibo.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VICDUR/Project-Euler-JS-PY.git"
+  },
+  "author": "Jakepys",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VICDUR/Project-Euler-JS-PY/issues"
+  },
+  "homepage": "https://github.com/VICDUR/Project-Euler-JS-PY#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
